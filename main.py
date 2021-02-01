@@ -1,11 +1,1 @@
-print("Sveika, pasaule!")
-print(2 * 2)
-print(2 * 2, 2 * 3, 2 * 4, "Pitons")
-print(f"Ja saskaitīsim 5 ar 7, iegūsim {5+7}.")
-print("Sveika, " + "pasaule!")  #var rakstīt komentārus
-print("Nikita")
-print("Nikita")
-print("Nikita")
-print("Nikita")
-print("Nikita")
-print("Nikita" * 7)
+import vardnica
